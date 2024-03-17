@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #be5cff;
+  color:white;
+}
+p{
+  font-style:italic;
+  font-family: fantasy;
+  text-align: center;
+  text-shadow:2px 2px #e32400;
+}
+.banner{
+  background-image:repeating-linear-gradient(violet,mediumorchid,lavender) ;
+    margin:15px;
+    padding:15px;
+    height:225px;
+    border: 10px solid #000000;
+  border-style:double;
+   box-shadow: 5px 2px 5px 5px #fdedf9; 
+    outline-offset: 1px;
+    outline-groove:2px;
+    text-transform:capitalize; 
+    text-shadow: 2px 2px #000000;
+    text-align: right;
+    font-family:cursive;
+    font-style: oblique;
+  }
+h1{
+   font-family: 'Charm';font-size: 22px;
+  text-decoration: underline;
+  font-style:bold;
+}
